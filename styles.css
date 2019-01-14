@@ -1,0 +1,19 @@
+main {
+	width:100%;
+	height:200px;
+	}
+header, footer {
+	background-color:#BCCE98
+	}
+article, nav {
+	height: 100%;
+	float: left;
+	}
+article {
+	background-color:#F7FDEB;
+	width:70%;
+	}
+nav {
+	background-color:#DAE9BC;
+	width:30%;
+	}
