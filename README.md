@@ -6,6 +6,6 @@ and make it inside a loop and you got a website scraper/creator.
 <p>
 In the future there will be more example on how to get this to work.
 <p>
-## Run this script
+# Run this script
 cd websitecreator/
 python example.py
