@@ -13,14 +13,14 @@ def htmloutput():
     f.write(
     f"""
     <html>
-    <title>{title}<title>
+    <title>{title}</title>
     <meta name="keywords" content"{keywords}">
     <meta name="description" content="{metaDescription}"
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
     <body>
     <main>
-	<header>{title}</header>
+	<header><h1>{title}</h1></header>
 	<nav>Nav bar...</nav>
 	<article>{article}</article>
 	<footer>Copyright 2019 - Yourdomain.com</footer>
