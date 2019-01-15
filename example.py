@@ -9,7 +9,7 @@ filename = input("Output HTML Filename: ")
 
 # Write Data Output to a HTML file
 def htmloutput():
-    f = open((filename) + ".html","w")
+    f = open((filename) + ".html","w+")
     f.write(
     f"""
     <html>
