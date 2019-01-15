@@ -10,6 +10,5 @@ In the future there will be more example on how to get this to work.
 cd websitecreator/ &&
 python example.py<p>
 Images example<p>
-![websitecreator](https://raw.githubusercontent.com/reliefs/websitecreator/master/example1.jpg)<p>
-![websitecreator](https://raw.githubusercontent.com/reliefs/websitecreator/master/example2.jpg)<p>
-
+![websitecreator](https://raw.githubusercontent.com/reliefs/websitecreator/master/example1.jpg)
+![websitecreator](https://raw.githubusercontent.com/reliefs/websitecreator/master/example2.jpg)
