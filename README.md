@@ -9,6 +9,8 @@ In the future there will be more example on how to get this to work.
 <b>Run this script</b><p>
 cd websitecreator/ &&
 python example.py<p>
-Images example<p>
+<b>Images example</b><p>
+
 ![websitecreator](https://raw.githubusercontent.com/reliefs/websitecreator/master/example1.jpg)
+
 ![websitecreator](https://raw.githubusercontent.com/reliefs/websitecreator/master/example2.jpg)
